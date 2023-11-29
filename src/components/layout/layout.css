@@ -1,0 +1,6 @@
+.container {
+    height: auto;
+    background: white;
+    display: flex;
+    width: 100%;
+  }
